@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tnine-sales", "tnine-sales\tnine-sales.csproj", "{F53FB84E-2AAF-4B23-990D-156F18391CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F53FB84E-2AAF-4B23-990D-156F18391CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53FB84E-2AAF-4B23-990D-156F18391CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53FB84E-2AAF-4B23-990D-156F18391CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53FB84E-2AAF-4B23-990D-156F18391CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB04FB4-2008-4432-B620-A29BAD941AF2}
+	EndGlobalSection
+EndGlobal
